@@ -1,0 +1,294 @@
+2019/3/11 8:46:08  GetTableData
+连接请求超时
+
+2019/3/11 8:46:13  GetTableData
+连接请求超时
+
+2019/3/11 8:46:28  GetTableData
+连接请求超时
+
+2019/3/11 8:46:43  GetTableData
+连接请求超时
+
+2019/3/11 8:46:43  Collect
+未找到列 [serial]。
+
+2019/3/11 8:46:58  GetTableData
+连接请求超时
+
+2019/3/11 8:47:13  GetTableData
+连接请求超时
+
+2019/3/11 8:47:28  GetTableData
+连接请求超时
+
+2019/3/11 8:47:43  GetTableData
+连接请求超时
+
+2019/3/11 8:47:58  GetTableData
+连接请求超时
+
+2019/3/11 8:48:13  GetTableData
+连接请求超时
+
+2019/3/11 10:30:13  Collect
+未找到列 [serial]。
+
+2019/3/11 10:30:33  Collect
+未找到列 [serial]。
+
+2019/3/11 10:32:51  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:32:56  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:33:01  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:33:06  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:33:11  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:33:16  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:34:39  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:34:44  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:34:49  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:34:54  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:34:59  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:35:04  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:35:09  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 10:35:14  GetTableData
+ORA-00942: 表或视图不存在
+
+2019/3/11 14:03:58  GetTableData
+ORA-12570: 网络会话: 意外的数据包读取错误
+
+2019/3/11 14:04:13  GetTableData
+连接请求超时
+
+2019/3/11 14:05:08  GetTableData
+ORA-12570: 网络会话: 意外的数据包读取错误
+
+2019/3/11 14:05:23  GetTableData
+连接请求超时
+
+2019/3/11 14:05:23  GetTableData
+连接请求超时
+
+2019/3/11 14:05:38  GetTableData
+连接请求超时
+
+2019/3/11 14:05:53  GetTableData
+连接请求超时
+
+2019/3/11 14:06:08  GetTableData
+连接请求超时
+
+2019/3/11 14:06:23  GetTableData
+连接请求超时
+
+2019/3/11 16:03:48  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 16:03:48  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 16:16:19  AddRunData
+ORA-01722: 无效数字
+insert into WELL_RUN_DATA (WELL_ID,WELL_NAME,I_A,I_B,I_C,U_A,U_B,U_C,PRESS_CASE,STIME,E_P,E_Q,E_COS,VFD_FREQ_CONF,VFD_FREQ_RUN,RTU_IPADDR,RTU_PORT,E_E，GAS_VALUE,GAS_CONFIG,FLOW_WATER_P_TOTLE,FLOW_WATER_R_TOTLE,FLOW_WATER_TOTLE,FLOW_WATER_INSTANT,FLOW_GAS_TEMP,FLOW_GAS_PRESS,FLOW_GAS_INSTANT,FLOW_GAS_TOTLE,REMARK,PRESS_DOWNHOLE,TEMP_DOWNHOLE,STATE_FREQUENCY)  values ('61','TEST','7.42','7.88',7.62,199.28,179.57,188.69,0,TO_DATE('2019-03-11 16:16:18','yyyy-mm-dd hh24:mi:ss'),2.76,-1.28,0.91,27,27,'192.168.1.1','5200','18.61','0','0','0','0','0','0','0','0','0','0','2','0','0','启动')
+
+2019/3/11 16:16:46  AddRunData
+ORA-01722: 无效数字
+insert into WELL_RUN_DATA (WELL_ID,WELL_NAME,I_A,I_B,I_C,U_A,U_B,U_C,PRESS_CASE,STIME,E_P,E_Q,E_COS,VFD_FREQ_CONF,VFD_FREQ_RUN,RTU_IPADDR,RTU_PORT,E_E，GAS_VALUE,GAS_CONFIG,FLOW_WATER_P_TOTLE,FLOW_WATER_R_TOTLE,FLOW_WATER_TOTLE,FLOW_WATER_INSTANT,FLOW_GAS_TEMP,FLOW_GAS_PRESS,FLOW_GAS_INSTANT,FLOW_GAS_TOTLE,REMARK,PRESS_DOWNHOLE,TEMP_DOWNHOLE,STATE_FREQUENCY)  values ('61','TEST','7.42','7.88',7.62,199.28,179.57,188.69,0,TO_DATE('2019-03-11 16:16:45','yyyy-mm-dd hh24:mi:ss'),2.76,-1.28,0.91,27,27,'192.168.1.1','5200','18.61','0','0','0','0','0','0','0','0','0','0','2','0','0','启动')
+
+2019/3/11 16:29:51  GetTableData
+连接请求超时
+
+2019/3/11 16:29:55  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 16:29:55  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 16:30:19  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 16:30:19  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 16:35:37  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 16:35:37  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 16:36:27  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 16:36:27  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:05:37  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:05:37  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:06:01  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:06:01  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:11:13  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:11:13  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:11:38  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:11:38  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:12:03  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:12:03  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:13:02  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:13:02  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:17:11  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:17:11  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:17:42  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:17:42  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:18:14  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:18:14  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:18:45  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:18:45  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:19:16  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:19:16  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:19:47  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:19:47  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:20:19  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:20:19  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:20:50  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:20:50  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:21:11  SendCmd
+读取数据量为0
+
+2019/3/11 17:21:11  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:41:48  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:41:48  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:42:19  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:42:19  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:42:51  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:42:51  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:43:22  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:43:22  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+
+2019/3/11 17:51:13  SendCmd
+无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+
+2019/3/11 17:51:13  Collect
+startIndex 不能大于字符串长度。
+参数名: startIndex
+

@@ -1,0 +1,769 @@
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.06 - 副本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmArea.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmConfig.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmControl.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWell.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDevice.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmd.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceCmdOrder.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmWellDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmDeviceDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTimer.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParam.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmd.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmType.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeCmdParamDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmTypeDetail.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\App.config
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+F:\工作文件\中成电动修井\代码\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\新疆煤层气\代码1\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\新疆煤层气\代码1\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\新疆煤层气\代码1\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\新疆煤层气\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\新疆煤层气\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\新疆煤层气\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\中原项目\使用异步监听方式\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll

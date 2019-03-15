@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Release\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Release\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Release\System.Net.Http.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Release\System.Net.Http.xml
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Release\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Release\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Release\LTKJ.DataBase.pdb

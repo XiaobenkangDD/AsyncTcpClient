@@ -1,0 +1,136 @@
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+D:\Work\华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+D:\Work\2017-01-20 华北油田RTU\HbRTU\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-9-27\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Sun\Desktop\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采集\未改版\新建文件夹\1\LtkjRTU2017-10-31\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\河间采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\LtkjRTU\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\华港采集\2018.02.07\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\2018.02.07 - 副本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+F:\工作文件\中成电动修井\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\气体检测\新版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\吉林\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\中原项目\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb

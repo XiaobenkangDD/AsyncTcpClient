@@ -33,7 +33,6 @@
             this.pnlTop = new System.Windows.Forms.Panel();
             this.tsMenu = new System.Windows.Forms.ToolStrip();
             this.tsbtnClose = new System.Windows.Forms.ToolStripButton();
-            this.onLineLabel = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.tvArea = new System.Windows.Forms.TreeView();
             this.imgListTree = new System.Windows.Forms.ImageList(this.components);
@@ -44,16 +43,13 @@
             this.pnlCenter = new System.Windows.Forms.Panel();
             this.pnlGrid = new System.Windows.Forms.Panel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.portText = new System.Windows.Forms.TextBox();
-            this.ServerSwitchButton = new System.Windows.Forms.Button();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.textReceive = new System.Windows.Forms.TextBox();
-            this.textSend = new System.Windows.Forms.TextBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.textCmd = new System.Windows.Forms.TextBox();
             this.SendButton = new System.Windows.Forms.Button();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.textSend = new System.Windows.Forms.TextBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.textReceive = new System.Windows.Forms.TextBox();
             this.pnlTop.SuspendLayout();
             this.tsMenu.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -62,9 +58,9 @@
             this.pnlCenter.SuspendLayout();
             this.pnlGrid.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            this.groupBox3.SuspendLayout();
-            this.groupBox4.SuspendLayout();
             this.groupBox5.SuspendLayout();
+            this.groupBox4.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlTop
@@ -85,11 +81,6 @@
             this.tsbtnClose.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             resources.ApplyResources(this.tsbtnClose, "tsbtnClose");
             this.tsbtnClose.Name = "tsbtnClose";
-            // 
-            // onLineLabel
-            // 
-            resources.ApplyResources(this.onLineLabel, "onLineLabel");
-            this.onLineLabel.Name = "onLineLabel";
             // 
             // groupBox1
             // 
@@ -153,36 +144,29 @@
             this.groupBox2.Controls.Add(this.groupBox5);
             this.groupBox2.Controls.Add(this.groupBox4);
             this.groupBox2.Controls.Add(this.groupBox3);
-            this.groupBox2.Controls.Add(this.portText);
-            this.groupBox2.Controls.Add(this.ServerSwitchButton);
-            this.groupBox2.Controls.Add(this.onLineLabel);
             resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.TabStop = false;
             // 
-            // portText
+            // groupBox5
             // 
-            resources.ApplyResources(this.portText, "portText");
-            this.portText.Name = "portText";
+            this.groupBox5.Controls.Add(this.textCmd);
+            this.groupBox5.Controls.Add(this.SendButton);
+            resources.ApplyResources(this.groupBox5, "groupBox5");
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.TabStop = false;
             // 
-            // ServerSwitchButton
+            // textCmd
             // 
-            resources.ApplyResources(this.ServerSwitchButton, "ServerSwitchButton");
-            this.ServerSwitchButton.Name = "ServerSwitchButton";
-            this.ServerSwitchButton.UseVisualStyleBackColor = true;           
+            resources.ApplyResources(this.textCmd, "textCmd");
+            this.textCmd.Name = "textCmd";
             // 
-            // groupBox3
+            // SendButton
             // 
-            this.groupBox3.Controls.Add(this.textReceive);
-            resources.ApplyResources(this.groupBox3, "groupBox3");
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.TabStop = false;
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            resources.ApplyResources(this.comboBox1, "comboBox1");
-            this.comboBox1.Name = "comboBox1";
+            resources.ApplyResources(this.SendButton, "SendButton");
+            this.SendButton.Name = "SendButton";
+            this.SendButton.UseVisualStyleBackColor = true;
+            this.SendButton.Click += new System.EventHandler(this.SendButton_Click);
             // 
             // groupBox4
             // 
@@ -191,35 +175,22 @@
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.TabStop = false;
             // 
-            // textReceive
-            // 
-            resources.ApplyResources(this.textReceive, "textReceive");
-            this.textReceive.Name = "textReceive";
-            // 
             // textSend
             // 
             resources.ApplyResources(this.textSend, "textSend");
             this.textSend.Name = "textSend";
             // 
-            // groupBox5
+            // groupBox3
             // 
-            this.groupBox5.Controls.Add(this.SendButton);
-            this.groupBox5.Controls.Add(this.label1);
-            this.groupBox5.Controls.Add(this.comboBox1);
-            resources.ApplyResources(this.groupBox5, "groupBox5");
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.TabStop = false;
+            this.groupBox3.Controls.Add(this.textReceive);
+            resources.ApplyResources(this.groupBox3, "groupBox3");
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.TabStop = false;
             // 
-            // label1
+            // textReceive
             // 
-            resources.ApplyResources(this.label1, "label1");
-            this.label1.Name = "label1";
-            // 
-            // SendButton
-            // 
-            resources.ApplyResources(this.SendButton, "SendButton");
-            this.SendButton.Name = "SendButton";
-            this.SendButton.UseVisualStyleBackColor = true;
+            resources.ApplyResources(this.textReceive, "textReceive");
+            this.textReceive.Name = "textReceive";
             // 
             // FrmMain
             // 
@@ -240,13 +211,12 @@
             this.pnlCenter.ResumeLayout(false);
             this.pnlGrid.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -265,17 +235,13 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.ImageList imgListTree;
         private System.Windows.Forms.ToolStripButton tsbtnClose;
-        private System.Windows.Forms.Label onLineLabel;
-        private System.Windows.Forms.TextBox portText;
-        private System.Windows.Forms.Button ServerSwitchButton;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.TextBox textSend;
         private System.Windows.Forms.TextBox textReceive;
         private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button SendButton;
+        private System.Windows.Forms.TextBox textCmd;
     }
 }
 

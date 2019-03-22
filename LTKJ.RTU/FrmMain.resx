@@ -202,33 +202,6 @@
   <data name="tsbtnClose.Text" xml:space="preserve">
     <value>退出</value>
   </data>
-  <data name="onLineLabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="onLineLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>46, 29</value>
-  </data>
-  <data name="onLineLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 12</value>
-  </data>
-  <data name="onLineLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="onLineLabel.Text" xml:space="preserve">
-    <value>端口号</value>
-  </data>
-  <data name="&gt;&gt;onLineLabel.Name" xml:space="preserve">
-    <value>onLineLabel</value>
-  </data>
-  <data name="&gt;&gt;onLineLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;onLineLabel.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;onLineLabel.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
   <data name="&gt;&gt;tvArea.Name" xml:space="preserve">
     <value>tvArea</value>
   </data>
@@ -282,7 +255,7 @@
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAADe
-        CQAAAk1TRnQBSQFMAgEBAwEAAYABAAGAAQABEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        CQAAAk1TRnQBSQFMAgEBAwEAAZgBAAGYAQABEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
         AwABQAMAARADAAEBAQABCAYAAQQYAAGAAgABgAMAAoABAAGAAwABgAEAAYABAAKAAgADwAEAAcAB3AHA
         AQAB8AHKAaYBAAEzBQABMwEAATMBAAEzAQACMwIAAxYBAAMcAQADIgEAAykBAANVAQADTQEAA0IBAAM5
         AQABgAF8Af8BAAJQAf8BAAGTAQAB1gEAAf8B7AHMAQABxgHWAe8BAAHWAucBAAGQAakBrQIAAf8BMwMA
@@ -565,17 +538,17 @@
   <data name="&gt;&gt;panLeft.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="SendButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 103</value>
+  <data name="&gt;&gt;textCmd.Name" xml:space="preserve">
+    <value>textCmd</value>
   </data>
-  <data name="SendButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+  <data name="&gt;&gt;textCmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="SendButton.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
+  <data name="&gt;&gt;textCmd.Parent" xml:space="preserve">
+    <value>groupBox5</value>
   </data>
-  <data name="SendButton.Text" xml:space="preserve">
-    <value>发送</value>
+  <data name="&gt;&gt;textCmd.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;SendButton.Name" xml:space="preserve">
     <value>SendButton</value>
@@ -587,61 +560,10 @@
     <value>groupBox5</value>
   </data>
   <data name="&gt;&gt;SendButton.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 42</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 12</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>选择客户端</value>
-  </data>
-  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>groupBox5</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 35</value>
-  </data>
-  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 20</value>
-  </data>
-  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
-    <value>comboBox1</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
-    <value>groupBox5</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="groupBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>501, 340</value>
+    <value>494, 282</value>
   </data>
   <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
     <value>243, 168</value>
@@ -674,7 +596,7 @@
     <value>0</value>
   </data>
   <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 331</value>
+    <value>48, 273</value>
   </data>
   <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
     <value>419, 177</value>
@@ -697,6 +619,21 @@
   <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="textReceive.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 20</value>
+  </data>
+  <data name="textReceive.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textReceive.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Both</value>
+  </data>
+  <data name="textReceive.Size" type="System.Drawing.Size, System.Drawing">
+    <value>602, 176</value>
+  </data>
+  <data name="textReceive.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
   <data name="&gt;&gt;textReceive.Name" xml:space="preserve">
     <value>textReceive</value>
   </data>
@@ -710,10 +647,10 @@
     <value>0</value>
   </data>
   <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 79</value>
+    <value>48, 44</value>
   </data>
   <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>629, 208</value>
+    <value>629, 202</value>
   </data>
   <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -732,51 +669,6 @@
   </data>
   <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="portText.Location" type="System.Drawing.Point, System.Drawing">
-    <value>103, 26</value>
-  </data>
-  <data name="portText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 21</value>
-  </data>
-  <data name="portText.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="&gt;&gt;portText.Name" xml:space="preserve">
-    <value>portText</value>
-  </data>
-  <data name="&gt;&gt;portText.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;portText.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;portText.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="ServerSwitchButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>232, 24</value>
-  </data>
-  <data name="ServerSwitchButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="ServerSwitchButton.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="ServerSwitchButton.Text" xml:space="preserve">
-    <value>打开</value>
-  </data>
-  <data name="&gt;&gt;ServerSwitchButton.Name" xml:space="preserve">
-    <value>ServerSwitchButton</value>
-  </data>
-  <data name="&gt;&gt;ServerSwitchButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ServerSwitchButton.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;ServerSwitchButton.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="groupBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -850,35 +742,62 @@
   <data name="&gt;&gt;pnlCenter.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="textReceive.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 20</value>
+  <data name="textCmd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 30</value>
   </data>
-  <data name="textReceive.Multiline" type="System.Boolean, mscorlib">
+  <data name="textCmd.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="textReceive.Size" type="System.Drawing.Size, System.Drawing">
-    <value>617, 182</value>
+  <data name="textCmd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>219, 44</value>
   </data>
-  <data name="textReceive.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="textCmd.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
   </data>
-  <data name="&gt;&gt;textReceive.Name" xml:space="preserve">
-    <value>textReceive</value>
+  <data name="&gt;&gt;textCmd.Name" xml:space="preserve">
+    <value>textCmd</value>
   </data>
-  <data name="&gt;&gt;textReceive.Type" xml:space="preserve">
+  <data name="&gt;&gt;textCmd.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textReceive.Parent" xml:space="preserve">
-    <value>groupBox3</value>
+  <data name="&gt;&gt;textCmd.Parent" xml:space="preserve">
+    <value>groupBox5</value>
   </data>
-  <data name="&gt;&gt;textReceive.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;textCmd.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="SendButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 103</value>
+  </data>
+  <data name="SendButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="SendButton.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="SendButton.Text" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="&gt;&gt;SendButton.Name" xml:space="preserve">
+    <value>SendButton</value>
+  </data>
+  <data name="&gt;&gt;SendButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SendButton.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;SendButton.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="textSend.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 20</value>
   </data>
   <data name="textSend.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="textSend.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Both</value>
   </data>
   <data name="textSend.Size" type="System.Drawing.Size, System.Drawing">
     <value>387, 138</value>
@@ -963,7 +882,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>数据采集系统 v1.0.0</value>
+    <value>采油四厂 采集系统 v1.0</value>
   </data>
   <data name="&gt;&gt;tsbtnClose.Name" xml:space="preserve">
     <value>tsbtnClose</value>

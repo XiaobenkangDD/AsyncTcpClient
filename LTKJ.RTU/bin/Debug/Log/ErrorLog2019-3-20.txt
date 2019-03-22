@@ -1,0 +1,3728 @@
+2019/3/20 9:51:59  AddTempData
+无法访问已释放的对象。
+对象名:“FrmMain”。
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.100','502','37.96','72.5','0','0','0.62','1.85','0','0','0',TO_DATE('2019-03-20 09:51:59','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 10:19:44  InsertData
+索引和长度必须引用该字符串内的位置。
+参数名: length
+
+2019/3/20 11:29:21  TsbtnClose_Click
+未将对象引用设置到对象的实例。
+
+2019/3/20 11:29:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:29:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:30:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:30:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:30:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:30:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:31:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:31:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:31:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:32:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:32:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:32:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:32:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:33:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:33:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:33:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:33:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:34:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:34:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:34:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:34:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:35:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:35:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:35:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:36:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:36:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:36:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:36:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:37:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:37:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:37:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:37:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:38:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:38:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:38:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:39:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:39:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:39:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:39:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:40:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:40:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:40:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:40:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:41:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:41:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:41:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:41:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:42:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:42:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:42:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:43:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:43:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:43:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:43:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:44:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:44:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:44:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:44:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:45:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:45:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:45:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:46:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:46:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:46:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:46:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:47:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:47:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:47:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:47:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:48:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:48:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:48:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:48:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:49:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:49:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:49:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:50:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:50:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:50:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:50:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:51:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:51:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:51:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:51:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:52:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:52:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:52:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:53:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:53:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:53:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:53:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:54:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:54:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:54:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:54:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:55:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:55:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:55:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:56:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:56:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:56:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:56:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:57:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:57:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:57:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:57:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:58:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:58:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:58:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:58:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:59:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:59:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 11:59:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:00:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:00:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:00:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:00:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:01:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:01:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:01:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:01:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:02:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:02:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:02:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:03:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:03:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:03:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:03:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:04:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:04:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:04:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:04:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:05:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:05:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:05:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:05:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:06:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:06:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:06:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:07:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:07:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:07:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:07:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:08:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:08:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:08:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:08:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:09:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:09:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:09:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:10:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:10:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:10:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:10:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:11:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:11:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:11:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:11:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:12:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:12:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:12:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:13:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:13:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:13:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:13:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:14:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:14:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:14:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:14:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:15:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:15:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:15:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:15:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:16:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:16:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:16:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:17:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:17:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:17:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:17:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:18:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:18:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:18:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:18:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:19:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:19:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:19:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:20:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:20:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:20:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:20:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:21:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:21:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:21:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:21:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:22:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:22:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:22:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:23:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:23:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:23:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:23:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:24:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:24:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:24:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:24:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:25:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:25:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:25:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:25:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:26:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:26:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:26:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:27:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:27:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:27:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:27:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:28:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:28:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:28:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:28:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:29:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:29:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:29:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:30:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:30:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:30:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:30:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:31:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:31:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:31:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:31:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:32:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:32:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:32:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:33:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:33:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:33:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:33:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:34:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:34:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:34:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:34:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:35:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:35:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:35:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:36:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:36:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:36:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:36:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:37:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:37:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:37:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:37:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:38:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:38:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:38:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:38:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:39:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:39:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:39:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:40:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:40:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:40:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:40:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:41:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:41:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:41:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:41:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:42:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:42:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:42:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:43:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:43:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:43:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:43:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:44:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:44:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:44:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:44:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:45:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:45:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:45:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:46:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:46:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:46:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:46:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:47:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:47:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:47:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:47:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:48:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:48:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:48:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:49:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:49:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:49:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:49:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:50:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:50:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:50:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:50:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:51:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:51:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:51:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:52:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:52:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:52:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:52:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:53:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:53:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:53:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:53:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:54:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:54:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:54:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:54:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:55:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:55:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:55:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:56:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:56:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:56:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:56:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:57:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:57:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:57:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:57:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:58:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:58:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:58:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:59:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:59:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:59:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 12:59:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:00:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:00:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:00:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:00:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:01:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:01:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:01:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:02:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:02:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:02:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:02:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:03:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:03:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:03:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:03:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:04:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:04:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:04:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:05:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:05:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:05:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:05:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:06:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:06:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:06:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:06:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:07:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:07:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:07:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:08:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:08:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:08:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:08:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:09:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:09:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:09:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:09:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:10:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:10:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:10:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:11:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:11:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:11:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:11:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:12:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:12:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:12:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:12:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:13:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:13:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:13:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:13:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:14:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:14:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:14:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:15:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:15:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:15:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:15:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:16:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:16:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:16:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:16:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:17:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:17:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:17:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:18:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:18:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:18:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:18:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:19:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:19:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:19:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:19:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:20:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:20:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:20:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:21:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:21:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:21:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:21:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:22:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:22:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:22:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:22:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:23:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:23:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:23:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:24:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:24:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:24:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:24:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:25:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:25:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:25:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:25:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:26:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:26:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:26:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:27:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:27:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:27:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:27:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:28:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:28:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:28:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:28:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:29:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:29:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:29:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:30:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:30:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:30:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:30:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:31:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:31:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:31:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:31:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:32:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:32:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:32:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:33:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:33:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:33:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:33:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:34:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:34:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:34:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:34:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:35:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:35:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:35:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:36:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:36:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:36:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:36:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:37:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:37:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:37:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:37:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:38:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:38:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:38:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:39:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:39:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:39:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:39:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:40:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:40:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:40:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:40:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:41:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:41:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:41:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:42:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:42:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:42:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:42:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:43:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:43:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:43:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:43:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:44:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:44:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:44:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:45:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:45:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:45:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:45:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:46:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:46:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:46:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:46:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:47:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:47:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:47:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:48:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:48:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:48:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:48:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:49:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:49:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:49:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:49:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:50:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:50:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:50:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:51:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:51:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:51:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:51:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:52:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:52:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:52:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:52:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:53:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:53:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:53:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:54:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:54:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:54:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:54:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:55:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:55:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:55:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:55:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:56:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:56:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:56:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:57:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:57:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:57:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:57:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:58:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:58:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:58:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:58:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:59:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:59:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 13:59:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:00:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:00:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:00:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:00:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:01:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:01:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:01:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:01:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:02:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:02:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:02:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:03:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:03:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:03:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:03:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:04:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:04:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:04:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:04:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:05:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:05:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:05:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:06:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:06:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:06:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:06:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:07:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:07:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:07:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:07:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:08:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:08:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:08:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:09:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:09:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:09:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:09:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:10:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:10:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:10:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:10:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:11:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:11:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:11:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:12:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:12:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:12:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:12:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:13:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:13:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:13:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:13:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:14:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:14:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:14:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:15:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:15:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:15:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:15:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:16:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:16:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:16:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:16:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:17:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:17:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:17:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:18:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:18:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:18:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 14:18:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 15:49:13  AddTempData
+无法访问已释放的对象。
+对象名:“FrmMain”。
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.119','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 15:49:13','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 15:49:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:28:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:29:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:29:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:29:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:29:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:30:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:30:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:30:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:30:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:31:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:31:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:31:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:31:47  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.119','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:47','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:47  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:47','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.122','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.110','502','100','100','100','100.4','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.123','502','100','100','100','100.4','1.6','1.8','1.8','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.114','502','100','100','100','100.4','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.118','502','100','100','0','0','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.100','502','100','100','0','0','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.119','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.120','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.115','502','100','100','100','100.4','1.59','0','1.8','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:50  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:50','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.110','502','45.7','18.75','0','0','0.05','0.92','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  WriteErrorLog
+文件“C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Log\ErrorLog2019-3-20.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+2019/3/20 16:31:53  WriteErrorLog
+文件“C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Log\ErrorLog2019-3-20.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.118','502','61.85','27.88','0','0','0.14','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.100','502','37.4','60.25','0','0','0.56','1.85','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.115','502','19.81','47','0','0','0.1','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.114','502','20.72','31.5','0','0','0.35','1.85','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:53  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:54  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:54  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.120','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:54  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.119','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:53','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:56  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.111','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:56','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.123','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:56','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.110','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:56','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.114','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:56','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.107','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.108','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.100','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.115','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.120','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.119','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.118','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:31:57  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 39
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','4','172.20.1.122','502','0','1','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:31:57','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.110','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.123','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.122','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  WriteErrorLog
+文件“C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Log\ErrorLog2019-3-20.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.118','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.100','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.115','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.119','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:00  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 44
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','5','172.20.1.120','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.110','502','45.7','18.75','0','0','0.05','0.92','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.123','502','78.3','79','0','0','0','0.37','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.122','502','37.55','31.6','26.27','32','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.118','502','62.1','27.88','0','0','0.14','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.120','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.100','502','37.4','60.25','0','0','0.56','1.85','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.119','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.115','502','19.81','47','0','0','0.1','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:03  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 24
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.114','502','20.67','31.62','0','0','0.35','1.85','0','0','0',TO_DATE('2019-03-20 16:32:03','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.122','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.123','502','100','100','100','100.4','1.6','1.8','1.8','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.114','502','100','100','100','100.4','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.110','502','100','100','100','100.4','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.118','502','100','100','0','0','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.119','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.100','502','100','100','0','0','1.6','1.8','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.120','502','100','100','100','100','0','0','0','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:06  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 29
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','2','172.20.1.115','502','100','100','100','100.4','1.59','0','1.8','0','0',TO_DATE('2019-03-20 16:32:06','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:09  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.122','502','37.65','31.47','26.35','31.88','0','0','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:09  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.111','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:09  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.114','502','20.67','31.62','0','0','0.35','1.85','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.107','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.118','502','62','28','0','0','0.14','0','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  WriteErrorLog
+文件“C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Log\ErrorLog2019-3-20.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.119','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:10','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.108','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.115','502','19.86','46.75','0','0','0.1','0','0','0','0',TO_DATE('2019-03-20 16:32:10','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.110','502','45.7','18.75','0','0','0.05','0.92','0','0','0',TO_DATE('2019-03-20 16:32:09','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.100','502','37.47','60.25','0','0','0.56','1.85','0','0','0',TO_DATE('2019-03-20 16:32:10','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:10  WriteErrorLog
+文件“C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Log\ErrorLog2019-3-20.txt”正由另一进程使用，因此该进程无法访问此文件。
+
+2019/3/20 16:32:10  AddTempData
+ORA-04098: 触发器 'OILFACTORY4.TRI_DATA_ACQUISITION_TO_HIS' 无效且未通过重新验证
+ORA-06512: 在 "OILFACTORY4.TRG_DATA_TEMP", line 34
+ORA-04088: 触发器 'OILFACTORY4.TRG_DATA_TEMP' 执行过程中出错
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.2.23','502','0','0','0','0','0','0','0','0','0',TO_DATE('2019-03-20 16:32:10','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 16:32:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:32:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:32:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:33:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:33:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:33:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:33:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:34:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:34:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:34:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:35:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:35:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:35:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:35:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:36:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:36:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:36:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:36:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:37:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:37:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:37:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:38:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:38:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:38:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:38:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:39:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:39:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:39:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:39:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:40:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:40:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:40:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:40:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:41:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:41:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:41:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:42:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:42:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:42:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:42:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:43:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:43:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:43:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:43:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:44:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:44:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:44:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:45:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:46:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:47:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:48:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:49:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:50:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:51:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:52:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:53:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:54:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:55:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:56:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:57:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:58:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 16:59:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:00:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:01:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:02:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:03:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:04:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:32  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:05:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:06:53  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:07:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:08:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:09:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:22  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:10:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:11:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:17  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:12:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:13:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:58  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:14:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:15:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:16:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:17:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:18:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:19:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:20:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:21:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:37  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:22:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:27  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:43  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:23:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:24:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 17:58:15  AddTempData
+无法访问已释放的对象。
+对象名:“FrmMain”。
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','3','172.20.1.122','502','37.53','38.4','27.34','36','0','0','0','0','0',TO_DATE('2019-03-20 17:58:14','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 18:04:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:09:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:14:47  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:20:03  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:25:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:30:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:35:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:41:08  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:46:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:51:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 18:56:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:02:13  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:07:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:12:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:18:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:23:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:28:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:33:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:39:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:44:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:49:40  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 19:54:56  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:00:12  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:02:00  AddTempData
+网络传输: TCP 传输地址连接故障
+insert into Data_temp (WELL_ID,WELL_NAME,CMD_TYPE,IP,PORT,D1,D2,D3,D4,D5,D6,D7,D8,D9,STIME)  values ('','','1','172.20.1.123','502','79.65','80.5','0','0','0','0.37','0','0','0',TO_DATE('2019-03-20 20:02:00','yyyy-mm-dd hh24:mi:ss'))
+
+2019/3/20 20:05:29  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:10:45  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:16:01  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:21:18  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:26:34  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:31:50  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:37:06  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:42:23  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:47:39  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:52:55  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 20:58:11  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:03:28  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:08:44  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:14:00  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:19:16  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:24:33  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:29:49  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:35:05  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:40:21  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:45:38  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:50:54  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 21:56:10  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:01:26  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:06:42  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:11:59  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:17:15  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:22:31  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:27:48  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:33:04  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:38:20  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:43:36  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:48:52  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:54:09  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 22:59:25  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:04:41  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:09:57  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:15:14  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:20:30  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:25:46  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:31:02  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:36:19  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:41:35  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:46:51  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:52:07  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+
+2019/3/20 23:57:24  Collect
+在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。
+

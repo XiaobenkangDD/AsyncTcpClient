@@ -134,3 +134,11 @@ C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\bin\Debug\Syste
 C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
 C:\Users\Administrator\Desktop\采油四厂\代码\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.DataBase\obj\Debug\LTKJ.DataBase.pdb

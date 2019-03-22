@@ -70,8 +70,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AsyncEventArgs.cs" />
-    <Compile Include="AsynClient.cs" />
     <Compile Include="cGetData.cs" />
     <Compile Include="Common.cs" />
     <Compile Include="Controler.cs" />
@@ -84,10 +82,10 @@
     </Compile>
     <Compile Include="Device.cs" />
     <Compile Include="MachineType.cs" />
+    <Compile Include="TempData.cs" />
     <Compile Include="ModelDevice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TCPClientState.cs" />
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
       <SubType>Designer</SubType>

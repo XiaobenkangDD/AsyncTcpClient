@@ -767,3 +767,31 @@ C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Deb
 C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
 C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
 C:\Users\Administrator\Desktop\采油四厂\代码 - 副本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\App.config
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe.config
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\LTKJ.RTU.pdb
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\LTKJ.DataBase.pdb
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh-Hans.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zh.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu-ZA.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.FrmMain.zu.resources
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\zh-Hans\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\zh\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\zu-ZA\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\zu\LTKJ.RTU.resources.dll
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.exe
+C:\Users\Administrator\Desktop\采油四厂\异步Client版本\LTKJ.RTU\obj\x86\Debug\LTKJ.RTU.pdb
